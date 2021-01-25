@@ -1,0 +1,106 @@
+
+steps to commit the code of trublu:
+----------------------------------
+
+1) vs code, click to source control
+2)
+3)
+4)
+5)
+
+git config --global user.email sarfaraz.chaudhary@bpktechmail.com
+git config --global user.name sarfaraz.chaudhary@bpktechmail.com
+
+
+
+Query:
+
+we don't know the folder structure of bifurcation
+
+
+Calling Modal Popup:
+--------------------
+
+import { useModal } from 'components/modal-provider'
+const showConfirmDialog = useModal('confirm')
+onClick={() => {
+        showConfirmDialog({
+          body: 'Testing'
+        })
+      }		
+		showConfirmDialog({
+          body: 'Are you sure you want to update your practice name?',
+          confirm: () => {
+            update({ variables: { name } })
+          }
+        })
+		
+		onSubmit={({ name }) => {
+        if (name.length < 4) {
+          toaster.danger('Please submit a valid practice name')
+          return setEditing(false)
+        }
+        showConfirmDialog({
+          body: 'Are you sure you want to update your practice name?',
+          confirm: () => {
+            update({ variables: { name } })
+          }
+        })
+      }
+	  
+------------------------- End ----------------------------
+
+Max length code: maxLength="25"
+	  example: <TextInputField name="name" label="Plan Name" placeholder="Plan Name" height={40} maxLength="25"/>
+	  
+wordBreak="break-all"
+wordWrap= "break-word" 
+text-overflow: ellipsis;
+textOverflow="ellipsis"
+overflow-wrap: break-word;
+overflowWrap="break-word";
+
+
+--------------------------------
+
+When You will be back I need to ask 2 things
+1) Kindly go to localhost:8000/onboarding/enroll --> Why links are not working for 'terms' and 'privacy policy'
+  as we update the link in 'invitation.tsx', We even kept the pages folder in member.
+2) I am not able to get the if condition, bug no:6870
+3) Same if condition, Bug No: 
+
+
+TUI, client: sherva 
+profile: Project:Angular, 
+project: .net (20%), azure,(Architecht level) no people management, 
+Bug fixes, Learning: microserveice
+location: remote, 
+
+No need to say to Client about angular knowledge.
+Experiance: 9 years but billing 15 years
+Business: won't run on honesty 
+World: Outside resourses are not available
+
+Trublu future: 
+Be involving, long term work, bpk partner of project, 
+Based on profit 
+Spend more work on it,
+
+Work spend based on feasibility, increase 20%
+Be relax, just follow Ritam,
+
+Say clear about learning to Ritam, even it is simple
+Focus on learning now, say in details
+
+Angular: Reactive form, Do full course on Plural sight,  
+learn lazy laoding, learn to update yourself, focus on new features,
+ref articals, blog
+
+Connect Donglin 
+
+https://ngasce.secure.force.com/ConfirmationMBAForm?id=00Q2j000003rKLhEAM
+
+ 
+
+
+

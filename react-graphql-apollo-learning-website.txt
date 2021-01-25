@@ -1,0 +1,23 @@
+
+
+https://www.cnblogs.com/litufu/articles/9758417.html
+
+https://www.xenonstack.com/insights/what-is-graphql/
+
+https://medium.com/dooboolab/how-to-set-up-a-graphql-server-with-apollo-server-prisma2-and-nexus-schema-f59aa23b5d5d
+
+https://www.youtube.com/channel/UCOw-DRfCmhOBUPMe4ltZOSA/playlists
+
+https://www.prisma.io/blog/using-graphql-nexus-with-a-database-pmyl3660ncst
+
+
+https://www.youtube.com/watch?v=tqmLxgvof70&ab_channel=GarrettLove
+https://www.geeksforgeeks.org/sending-bulk-emails-in-node-js-using-sendgrid-api/
+https://sendgrid.com/docs/for-developers/sending-email/quickstart-nodejs/
+
+
+-------------------------
+Gatsby Learning:
+https://www.youtube.com/watch?v=ThzUUdIVr_I&ab_channel=BrianDesign
+https://www.youtube.com/watch?v=6YhqQ2ZW1sc&ab_channel=TraversyMedia
+https://www.youtube.com/watch?v=b2H7fWhQcdE&list=PLLnpHn493BHHfoINKLELxDch3uJlSapxg&ab_channel=LevelUpTuts

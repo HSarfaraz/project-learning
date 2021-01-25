@@ -1,0 +1,41 @@
+word-wrap: break-word
+
+Steps I followed to Create the privacy Policy & Terms of Use Side sheet
+-----------------------------------------------------------------------
+1)Created 2 tsx file privacypolicy-contract.tsx & termsofUse-contract.tsx in lib--> src 
+2) Add the onClick method in enroll.tsx 
+3) import PrivacypolicyContract from '../contract/privacypolicy-contract'
+
+Calling the sidesheet
+1.
+export type Props = {
+  showPrivacypolicyContract: ()=>void,
+}
+2.
+const ServiceSubscriptionCard = ({ showPrivacypolicyContract }: Props) => {
+
+
+})
+3.
+<Button onClick={() => showPrivacypolicyContract()}>
+  View Contract
+</Button>
+
+
+https://www.youtube.com/watch?v=U6wR5joelew&list=PL9fcHFJHtFaaZxjZyLaB4l8nI2fvOkY4r&ab_channel=PerfectWebSolutions
+https://www.youtube.com/watch?v=kXH2dbnHYA0&ab_channel=CodingTech
+
+Nisar Tips:
+-----------
+1) lib, member, provider is all seperate folders, we all have respective folders and files.so we can't call anything from any folder
+2) 
+------ Steps followed to get the Privacy Policy & Terms Of Use in Provider ----------------
+1) Created the 'pages' folder in provider --> public --> Gave respective path in 'onboarding-start.tsx'
+2) 
+
+1)created the Privacypolicy-sheet.tsx
+2)Updatedin modal-procider.tsx
+   import PrivacypolicySheet from 'components/_sheets/privacypolicy-sheet'
+   privacypolicy:PrivacypolicySheet,
+3)const showPrivacypolicySheet = useModal('privacypolicy')
+4)onClick={() => showPrivacypolicySheet()}
