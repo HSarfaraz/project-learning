@@ -1,0 +1,10 @@
+https://rapidapi.com/blog/create-react-app-typescript/
+https://www.udemy.com/course/building-web-applications-with-typescript-angular-react/
+https://riptutorial.com/angular2
+https://www.freecodecamp.org/news/apollo-graphql-how-to-build-a-full-stack-app-with-react-and-node-js/
+https://www.digitalocean.com/community/tutorials/how-to-build-a-recipe-app-using-react-prisma-and-graphql
+https://www.guru99.com/graphql-tutorial.html
+https://github.com/enaqx/awesome-react
+https://www.entrepreneur.com/slideshow/306357#31
+https://www.codemochi.com/blog/2019-07-08-prisma-2-nextjs-docker
+https://bezkoder.com/angular-crud-app/
